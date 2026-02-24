@@ -10,6 +10,10 @@ Database Schema: Designing table structures, keys, and relationships.
 Class Diagrams: Defining the objects, their attributes, and how they interact.
 API Specs: Detailing the inputs and outputs for every function or endpoint.
 
+3. Constraints & Assumptions
+* The system assumes the user has a modern web browser.
+* The system will only support English in Version 1.0.
+
 
 
 📝 What do you actually DO in this phase?

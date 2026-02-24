@@ -2,6 +2,8 @@
 
 ## 1. Project Overview
 Briefly describe the "Workflow" project.
+**Project Name:** --
+**Goal:** [Your goal]
 
 ## 2. User Requirements
 - What are the main pain points you are solving?
@@ -19,3 +21,10 @@ example:
 
 ## 5. Requirement Traceability Matrix (Intro)
 (This will be an empty table you'll fill later to ensure every feature matches a requirement).
+
+
+
+
+*The phase is complete when:*
+1. All functional requirements are listed.
+2. The scope is clearly defined.
