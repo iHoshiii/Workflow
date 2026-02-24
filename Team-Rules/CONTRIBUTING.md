@@ -8,7 +8,7 @@ To maintain code quality and keep things moving smoothly, please follow these gu
 
 ## 🚩 Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct]. Please be respectful and constructive in all interactions.
+By participating in this project, you agree to abide by our [Code of Conduct](https://github.com/iHoshiii/Workflow/blob/master/Team-Rules/CODE_OF_CONDUCT.md). Please be respectful and constructive in all interactions.
 
 ## 🛠️ How Can I Contribute?
 
